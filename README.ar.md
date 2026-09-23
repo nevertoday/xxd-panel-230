@@ -60,7 +60,7 @@
 التثبيت من GitHub:
 
 ```bash
-npx skills add https://github.com/nevertoday/xxd-panel-230 --skill xxd-panel-230
+npx skills add https://github.com/xiaoxiaodong-ai/xxd-panel-230 --skill xxd-panel-230
 ```
 
 بعد التثبيت أعد تشغيل جلسة Agent ثم استدعِ `$xxd-panel-230`. ويمكن إضافة `--global --agent codex --yes` للتثبيت على مستوى المستخدم.
