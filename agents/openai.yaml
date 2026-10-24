@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 230"
-  short_description: "负形纪念碑：上半保留原照，下半用短线把主体留成一块巨大的白色剪影"
-  default_prompt: "Use $xxd-panel-230 to transform my photograph following the complete canonical source brief."
+  short_description: "负形纪念碑：用密集手绘短线把主体留成巨大的白色负形，旁边只有一个极小的小人"
+  default_prompt: "Use $xxd-panel-230 to turn my photo into Negative-Space Monument artwork."

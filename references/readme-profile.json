@@ -1,0 +1,119 @@
+{
+  "skill_description": "XXD Panel 230｜Negative-Space Monument: does not draw the photo's subject but leaves it as one huge, quiet white silhouette carved out of a field of dense, repeated, imperfect hand-drawn horizontal dashes (slight wobble, ink skips, breaks, like dry marker or screen print), so the abstract pattern reads first and the hidden form second, with one tiny naive whimsical figure interacting with or walking beside this monument; strictly flat graphic printing in at most three colours — warm off-white paper, one soft bright ink drawn from the photo, and black for the figure and text — with paper grain and slight misregistration, no gradients, shadows or volume, and a few small editorial words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-230 or asks for figure-ground reversal, negative-space silhouette or hand-hatched minimalist zine illustration from a photo.",
+  "short_description": "负形纪念碑：用密集手绘短线把主体留成巨大的白色负形，旁边只有一个极小的小人",
+  "zh-CN": {
+    "name": "负形纪念碑",
+    "tagline": "用密集的手绘短线把主体留成一块巨大的白色负形，旁边只站着一个极小的小人。",
+    "look": "主体不直接画出来，而是被“留”出来：画面铺满密集、重复、不完美的手绘水平短线，略抖、漏墨、断续，像干性马克笔或丝网印刷，中间空出一块巨大、完整、安静的白色剪影，先看到抽象的线场，过一会儿才认出那是什么。一个极小、天真、有点俏皮的小人站在旁边，和这块白色纪念碑对照、穿行或陪伴。全图是平面印刷感，最多三种颜色：暖白纸底、一种从照片提炼的柔亮墨色，再加黑色，保留纸纹和轻微套印误差，没有渐变、阴影和体积。边角放几个小而轻的字。",
+    "traits": [
+      "负形剪影",
+      "密集手绘短线",
+      "白色纪念碑",
+      "极小稚拙人物",
+      "三色专色",
+      "平面印刷"
+    ],
+    "good": [
+      "外轮廓一眼就能认出的主体：一座山、一只猫、一棵树、一座灯塔",
+      "大而简单的形体：一座雕塑、一栋独立建筑、一头鲸、一个茶壶",
+      "想做独立出版物插画、文学书封面或展览海报的照片"
+    ],
+    "poor": [
+      "剪影不清楚、靠内部细节才能认出的主体：一张脸的表情、一桌菜、一面书架",
+      "多个主体并列或关系复杂的照片，这里只能有一个主形体",
+      "想要立体感、渐变、写实光影或多色画面的需求"
+    ]
+  },
+  "en": {
+    "name": "Negative-Space Monument",
+    "tagline": "Leaves the subject as a huge white silhouette in dense hand-drawn dashes, with one tiny figure beside it.",
+    "look": "The subject is not drawn but left out: the page is filled with dense, repeated, imperfect hand-drawn horizontal dashes, slightly shaky, skipping and broken like dry marker or screen print, and a huge, whole, quiet white silhouette is left empty in the middle, so you see the abstract field first and only then recognise the shape. One tiny, naive, slightly playful figure stands nearby, facing, crossing or keeping company with this white monument. Everything is flat and print-like in no more than three colours: warm off-white paper, one soft bright ink drawn from the photo, and black, with paper grain and slight misregistration and no gradients, shadows or volume. A few small, light words sit at the edges.",
+    "traits": [
+      "Negative-space silhouette",
+      "Dense hand-drawn dashes",
+      "White monument",
+      "Tiny naive figure",
+      "Three spot colours",
+      "Flat print"
+    ],
+    "good": [
+      "Subjects recognisable from their outline alone: a mountain, a cat, a tree, a lighthouse",
+      "Large, simple forms: a sculpture, a standalone building, a whale, a teapot",
+      "Photos you want as an indie-press illustration, a literary book cover or an exhibition poster"
+    ],
+    "poor": [
+      "Subjects that need inner detail to be recognised: a facial expression, a table of dishes, a bookshelf",
+      "Photos with several subjects side by side or complex relationships, since only one main shape is allowed",
+      "Requests for volume, gradients, realistic lighting or many colours"
+    ]
+  },
+  "ja": {
+    "name": "負の形のモニュメント",
+    "tagline": "密な手描きの短い線で主役を巨大な白い負の形として残し、そばにごく小さな人物を一人だけ置きます。",
+    "look": "主役は描かずに「残し」ます。画面は、密に繰り返す不完全な手描きの水平の短線で覆われ、線は少し震え、かすれ、途切れて、乾いたマーカーやシルクスクリーンのようです。その中に巨大で欠けのない静かな白いシルエットが空けられ、まず抽象的な線の場が見え、少し遅れて何の形かに気づきます。ごく小さく無邪気で少しおどけた人物がそばに立ち、この白い記念碑と向き合ったり、横切ったり、寄り添ったりします。全体は平面的な印刷の質感で、色は三色まで。暖かなオフホワイトの紙、写真から取った柔らかく明るいインク一色、そして黒。紙の目とわずかな版ずれを残し、グラデーション、影、立体感はありません。隅に小さく軽い文字が少し入ります。",
+    "traits": [
+      "負の形のシルエット",
+      "密な手描きの短線",
+      "白いモニュメント",
+      "ごく小さな素朴な人物",
+      "特色三色",
+      "平面的な印刷"
+    ],
+    "good": [
+      "輪郭だけで一目でわかる主役：山、猫、一本の木、灯台",
+      "大きくシンプルな形：彫刻、一棟だけの建物、クジラ、ティーポット",
+      "インディー出版物の挿絵、文芸書の表紙、展覧会のポスターにしたい写真"
+    ],
+    "poor": [
+      "シルエットがあいまいで、内側の細部がないとわからない主役：顔の表情、料理の並ぶ食卓、本棚",
+      "主役がいくつも並ぶ、関係の複雑な写真（主な形は一つだけです）",
+      "立体感、グラデーション、写実的な光、多色の画面を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "네거티브 스페이스 기념비",
+    "tagline": "촘촘한 손그림 짧은 선 속에 주인공을 거대한 흰 음형으로 남기고, 옆에 아주 작은 인물 하나만 둡니다.",
+    "look": "주인공은 그리지 않고 ‘남겨’ 둡니다. 화면은 촘촘하게 반복되는 불완전한 손그림 가로 짧은 선으로 덮이고, 선은 살짝 떨리고 잉크가 비고 끊겨 마른 마커나 실크스크린 같습니다. 그 가운데 거대하고 온전하며 조용한 흰 실루엣이 비워져 있어, 먼저 추상적인 선의 장이 보이고 조금 뒤에야 무슨 형태인지 알아차립니다. 아주 작고 천진하며 살짝 장난스러운 인물 하나가 옆에 서서 이 흰 기념비와 마주하거나, 지나가거나, 곁을 지킵니다. 전체는 평면적인 인쇄 느낌이고 색은 세 가지 이내입니다. 따뜻한 오프화이트 종이, 사진에서 뽑은 부드럽고 밝은 잉크 한 가지, 그리고 검정. 종이결과 약간의 판 어긋남을 남기고, 그러데이션, 그림자, 입체감은 없습니다. 모서리에 작고 가벼운 글자가 조금 들어갑니다.",
+    "traits": [
+      "음형 실루엣",
+      "촘촘한 손그림 짧은 선",
+      "흰 기념비",
+      "아주 작은 서툰 인물",
+      "별색 세 가지",
+      "평면 인쇄"
+    ],
+    "good": [
+      "윤곽만으로 한눈에 알아볼 수 있는 주인공: 산, 고양이, 나무, 등대",
+      "크고 단순한 형태: 조각상, 홀로 선 건물, 고래, 찻주전자",
+      "독립 출판물 삽화, 문학책 표지, 전시 포스터로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "실루엣이 흐려 안쪽 세부가 있어야 알아볼 수 있는 주인공: 얼굴 표정, 요리가 차려진 식탁, 책장",
+      "주인공이 여럿 나란히 있거나 관계가 복잡한 사진(주된 형태는 하나뿐입니다)",
+      "입체감, 그러데이션, 사실적인 빛, 다채로운 색을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "نصب من الفراغ السلبي",
+    "tagline": "يترك العنصر الرئيسي ظلاً أبيض ضخماً وسط خطوط قصيرة كثيفة مرسومة باليد، وإلى جانبه شخص صغير جداً وحيد.",
+    "look": "لا يُرسم العنصر بل يُترك فارغاً: تمتلئ الصفحة بخطوط أفقية قصيرة كثيفة متكررة غير متقنة مرسومة باليد، مرتعشة قليلاً ومتقطعة وفيها فجوات حبر كأنها بقلم تحديد جاف أو طباعة حريرية، وفي وسطها يُترك ظل أبيض ضخم كامل هادئ، فترى أولاً حقل الخطوط المجرد ثم تتعرف على الشكل بعد لحظة. يقف قربه شخص صغير جداً ساذج فيه شيء من المرح، يواجه هذا النصب الأبيض أو يعبر بجانبه أو يرافقه. كل شيء مسطّح بإحساس الطباعة وبثلاثة ألوان على الأكثر: ورق أبيض مائل إلى الدفء، وحبر واحد ناعم مشرق مستخلص من الصورة، والأسود، مع ملمس الورق وانزياح طباعي خفيف، دون تدرجات أو ظلال أو حجم. وتظهر في الأطراف كلمات قليلة صغيرة خفيفة.",
+    "traits": [
+      "ظل من الفراغ السلبي",
+      "خطوط يدوية قصيرة كثيفة",
+      "نصب أبيض",
+      "شخص ساذج صغير جداً",
+      "ثلاثة ألوان موضعية",
+      "طباعة مسطحة"
+    ],
+    "good": [
+      "عناصر تُعرف من حدودها وحدها: جبل، قطة، شجرة، منارة",
+      "أشكال كبيرة بسيطة: تمثال، مبنى منفرد، حوت، إبريق شاي",
+      "صور تريدها رسماً لمطبوعة مستقلة أو غلاف كتاب أدبي أو ملصق معرض"
+    ],
+    "poor": [
+      "عناصر لا تُعرف إلا بتفاصيلها الداخلية: تعبير وجه، مائدة أطباق، رف كتب",
+      "صور فيها عدة عناصر متجاورة أو علاقات معقدة، إذ لا يُسمح إلا بشكل رئيسي واحد",
+      "طلب حجم أو تدرجات أو إضاءة واقعية أو ألوان كثيرة"
+    ]
+  }
+}
